@@ -65,3 +65,5 @@ This project demonstrates a simple theft detection system for bird cages using a
 - The Chirping Bird Cage Theft Detector provides a simple yet effective way to protect your bird cage from theft. It can be easily implemented and serves as an audible deterrent to would-be thieves.
 
 - The buzzer will sound when the hall sensor no longer works detect the presence of a magnet or IR sensor obstructed by objects.
+
+#### @Copyright 2024 | Chirping-Bird-Cage-Theft-Detector/
