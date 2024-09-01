@@ -17,7 +17,7 @@ This project demonstrates a simple theft detection system for bird cages using a
 
 - Below you can see a schematic image to facilitate the wiring of cables from the microcontroller to devices, both input and output sensors:
 
-!Schematic](img/skema.jpg)
+![Schematic](img/skema.jpg)
 
 ## Circuit Diagram
 
